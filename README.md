@@ -1,4 +1,11 @@
-# Josephine Loiret-Bernal
+<div align="center">
+
+# 👋 Josephine Loiret-Bernal
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-loiret-bernal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephine.loiret@gmail.com)
+
+</div>
 
 Master's student at Santa Clara University pursuing an M.S. in Artificial Intelligence and recent SCU graduate with a B.S. in Computer Science, emphasis in Data Science, and Magna Cum Laude honors.
 
@@ -35,4 +42,8 @@ A machine learning-based application that recommends personalized treatment opti
 
 ---
 
-*Last updated: 2024*
+<div align="center">
+
+*Last updated: 2025*
+
+</div>
