@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🔵 Josephine Loiret-Bernal 🔵
+# Josephine Loiret-Bernal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-loiret-bernal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephine.loiret@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-loiret-bernal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephine.loiret@gmail.com)
 
-[![Profile](https://img.shields.io/badge/Josephine_Loiret--Bernal-2563eb?style=for-the-badge&labelColor=2563eb&color=white)](https://github.com/josephineloiret)
+---
 
 </div>
 
