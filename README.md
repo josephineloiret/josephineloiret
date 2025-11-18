@@ -37,6 +37,12 @@ A machine learning-based application that recommends personalized treatment opti
 
 **Technologies:** Python, scikit-learn, Flask, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
+### [ML Drug Detection](https://github.com/josephineloiret/ML-Drug-Detection)
+
+A machine learning project that predicts drug prescriptions based on patient characteristics including age, sex, blood pressure, cholesterol levels, and sodium-to-potassium ratio. The project compares four different machine learning models (Naive Bayes, Decision Trees, Random Forest, and Neural Networks) with and without hyperparameter tuning to determine the most effective approach for drug classification. Includes comprehensive data preprocessing, feature selection using ANOVA, hyperparameter optimization via grid search, and performance visualization.
+
+**Technologies:** Python, scikit-learn, scikeras, Keras, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
 ## Contact
 
 - 📧 Email: [josephine.loiret@gmail.com](mailto:josephine.loiret@gmail.com)
