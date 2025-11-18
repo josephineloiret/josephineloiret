@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Josephine Loiret-Bernal
+<h1 style="font-size: 2.5em">Josephine Loiret-Bernal</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-loiret-bernal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephine.loiret@gmail.com)
