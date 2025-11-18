@@ -43,6 +43,12 @@ A machine learning project that predicts drug prescriptions based on patient cha
 
 **Technologies:** Python, scikit-learn, scikeras, Keras, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
+### [Central Park Squirrel Analysis](https://github.com/josephineloiret/Central-Park-Squirrel-Analysis)
+
+A data analysis project that analyzes the 2018 Central Park Squirrel Census data to predict squirrel energy expenditure based on geographical location using K-Nearest Neighbors (KNN) regression. The project includes comprehensive data preprocessing, feature engineering, exploratory visualizations, and interactive geographical mapping of squirrel behavior patterns across Central Park. Demonstrates machine learning techniques for spatial regression and provides insights into how squirrel activity levels vary by location within the park.
+
+**Technologies:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, Jupyter Notebook
+
 ## Contact
 
 - 📧 Email: [josephine.loiret@gmail.com](mailto:josephine.loiret@gmail.com)
