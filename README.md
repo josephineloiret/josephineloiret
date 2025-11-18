@@ -49,6 +49,12 @@ A data analysis project that analyzes the 2018 Central Park Squirrel Census data
 
 **Technologies:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, Jupyter Notebook
 
+### [Blind Drawing CC](https://github.com/josephineloiret/Blind_Drawing_CC)
+
+A computational creativity project exploring how the absence of visual feedback during the creative process can enhance artistic expression, embrace mistakes, and reveal unexpected creativity. Users draw on a hidden canvas without seeing their creation in real-time, encouraging spontaneity and freeing artists from self-judgment. Features include color selection, reveal toggle, and the ability to save drawings as PNG files.
+
+**Technologies:** JavaScript, HTML, p5.js
+
 ## Contact
 
 - 📧 Email: [josephine.loiret@gmail.com](mailto:josephine.loiret@gmail.com)
