@@ -51,7 +51,7 @@ A data analysis project that analyzes the 2018 Central Park Squirrel Census data
 
 ### [Blind Drawing CC](https://github.com/josephineloiret/Blind_Drawing_CC)
 
-A computational creativity project exploring how the absence of visual feedback during the creative process can enhance artistic expression, embrace mistakes, and reveal unexpected creativity. Users draw on a hidden canvas without seeing their creation in real-time, encouraging spontaneity and freeing artists from self-judgment. Features include color selection, reveal toggle, and the ability to save drawings as PNG files.
+A computational creativity project that explores how limiting visual feedback during the creative process can enhance artistic expression and embrace unexpected outcomes. Users draw on a hidden canvas without seeing their creation in real-time, freeing artists from self-judgment and perfectionism. Features include multiple brush types (pencil, pen, watercolor, paintbrush), color picker, selection mode, and canvas reveal functionality. When you finally reveal your creation, you discover something entirely new—shaped by intuition and trust rather than visual control.
 
 **Technologies:** JavaScript, HTML, p5.js
 
