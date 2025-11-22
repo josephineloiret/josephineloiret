@@ -37,6 +37,12 @@ A machine learning-based application that recommends personalized treatment opti
 
 **Technologies:** Python, scikit-learn, Flask, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
+### [Blind Drawing CC](https://github.com/josephineloiret/Blind_Drawing_CC) | [Live Demo](https://blind-drawing-cc.vercel.app/)
+
+A computational creativity project that explores how limiting visual feedback during the creative process can enhance artistic expression and embrace unexpected outcomes. Users draw on a hidden canvas without seeing their creation in real-time, freeing artists from self-judgment and perfectionism. Features include multiple brush types (pencil, pen, watercolor, paintbrush), color picker, selection mode, and canvas reveal functionality. When you finally reveal your creation, you discover something entirely new—shaped by intuition and trust rather than visual control.
+
+**Technologies:** JavaScript, HTML, p5.js
+
 ### [ML Drug Detection](https://github.com/josephineloiret/ML-Drug-Detection)
 
 A machine learning project that predicts drug prescriptions based on patient characteristics including age, sex, blood pressure, cholesterol levels, and sodium-to-potassium ratio. The project compares four different machine learning models (Naive Bayes, Decision Trees, Random Forest, and Neural Networks) with and without hyperparameter tuning to determine the most effective approach for drug classification. Includes comprehensive data preprocessing, feature selection using ANOVA, hyperparameter optimization via grid search, and performance visualization.
@@ -48,12 +54,6 @@ A machine learning project that predicts drug prescriptions based on patient cha
 A data analysis project that analyzes the 2018 Central Park Squirrel Census data to predict squirrel energy expenditure based on geographical location using K-Nearest Neighbors (KNN) regression. The project includes comprehensive data preprocessing, feature engineering, exploratory visualizations, and interactive geographical mapping of squirrel behavior patterns across Central Park. Demonstrates machine learning techniques for spatial regression and provides insights into how squirrel activity levels vary by location within the park.
 
 **Technologies:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium, Jupyter Notebook
-
-### [Blind Drawing CC](https://github.com/josephineloiret/Blind_Drawing_CC) | [Live Demo](https://blind-drawing-cc.vercel.app/)
-
-A computational creativity project that explores how limiting visual feedback during the creative process can enhance artistic expression and embrace unexpected outcomes. Users draw on a hidden canvas without seeing their creation in real-time, freeing artists from self-judgment and perfectionism. Features include multiple brush types (pencil, pen, watercolor, paintbrush), color picker, selection mode, and canvas reveal functionality. When you finally reveal your creation, you discover something entirely new—shaped by intuition and trust rather than visual control.
-
-**Technologies:** JavaScript, HTML, p5.js
 
 ## Contact
 
