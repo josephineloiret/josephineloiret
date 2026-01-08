@@ -37,7 +37,7 @@ A machine learning-based application that recommends personalized treatment opti
 
 **Technologies:** Python, scikit-learn, Flask, Pandas, NumPy, Matplotlib, Jupyter Notebook
 
-### [Blind Drawing CC](https://github.com/josephineloiret/Blind_Drawing_CC) | [Live Demo](https://blind-drawing-cc.vercel.app/)
+### [Blind Drawing CST](https://github.com/josephineloiret/Blind_Drawing_CC) | [Live Demo](https://blind-drawing-cc.vercel.app/)
 
 A computational creativity project that explores how limiting visual feedback during the creative process can enhance artistic expression and embrace unexpected outcomes. Users draw on a hidden canvas without seeing their creation in real-time, freeing artists from self-judgment and perfectionism. Features include multiple brush types (pencil, pen, watercolor, paintbrush), color picker, selection mode, and canvas reveal functionality. When you finally reveal your creation, you discover something entirely new—shaped by intuition and trust rather than visual control.
 
