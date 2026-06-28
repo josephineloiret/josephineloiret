@@ -1,10 +1,13 @@
+<div align="center">
+
 # Josephine Loiret-Bernal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephine-loiret-bernal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:josephine.loiret@gmail.com)
 
----
+</div>
 
+---
 M.S. student in AI at **Santa Clara University**, building ML pipelines from messy data to something you can actually use.
 
 ## About Me
