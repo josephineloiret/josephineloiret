@@ -26,7 +26,7 @@ My recent work includes semiconductor sensor-data pipelines and unsupervised ano
 
 ## Projects
 
-### [OCD Screening Tool](https://github.com/josephineloiret/OCD-Screening-Tool) | [Live Demo](https://ocd-screening-assistant.onrender.com/)
+### [OCD Screening Tool](https://github.com/josephineloiret/OCD-Screening-Tool) \| [Live Demo](https://ocd-screening-assistant.onrender.com/)
 
 NLP screening pipeline for clinician decision support: classifies mental-health intake text across OCD, depression, ADHD, and PTSD using TF-IDF + logistic regression on ~20K Reddit posts (**84.3% test accuracy**, 0.83 macro-F1). Includes interpretable word explanations, confidence-based abstention (<45% threshold), model benchmarking vs. dummy and linear SVM baselines, and a deployed Flask web demo.
 
