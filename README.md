@@ -30,8 +30,7 @@ My recent work includes semiconductor sensor-data pipelines and unsupervised ano
 
 NLP screening pipeline for clinician decision support: classifies mental-health intake text across OCD, depression, ADHD, and PTSD using TF-IDF + logistic regression on ~20K Reddit posts (**84.3% test accuracy**, 0.83 macro-F1). Includes interpretable word explanations, confidence-based abstention (<45% threshold), model benchmarking vs. dummy and linear SVM baselines, and a deployed Flask web demo.
 
-**Technologies:** Python, scikit-learn, Flask, LLM API
-
+**Technologies:** Python, Streamlit, Gemini API, openpyxl, Pydantic
 ### [Blind Drawing CST](https://github.com/josephineloiret/Blind_Drawing_CC) | [Live Demo](https://blind-drawing-cc.vercel.app/)
 
 A computational creativity project that explores how limiting visual feedback during the creative process can enhance artistic expression and embrace unexpected outcomes. Users draw on a hidden canvas without seeing their creation in real-time, freeing artists from self-judgment and perfectionism. Features include multiple brush types (pencil, pen, watercolor, paintbrush), color picker, selection mode, and canvas reveal functionality.
